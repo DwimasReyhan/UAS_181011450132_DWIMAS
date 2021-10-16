@@ -1,16 +1,13 @@
-# weather
+*JAWABAN SOAL UAS*
+Nama	: Dwimas Reyhan Parintan
+NIM	: 181011450132
+Kelas	: 06TPLE008
+UAS Mobile Programing
+1.	Jelaskan perbedaan Native dan Hybrid pada mobile programming !
+Jawab: 
+Native adalah aplikasi yang dibangun dengan bahasa pemrograman yang spesifik untuk platform tertentu. Contoh populernya yakni penggunaan bahasa pemrograman Objective-C atau Swift untuk platform iOS (Apple). Adapun platform Android yang menggunakan bahasa pemrograman Java.
+Hybrid adalah aplikasi web yang ditransformasikan menjadi kode native pada platform seperti iOS atau Android. Aplikasi hybrid biasanya menggunakan browser untuk mengijinkan aplikasi web mengakses berbagai fitur di device mobile seperti Push Notification, Contacts, atau Offline Data Storage.
+2.	Apa yang dimaksud dengan State Management, dan jelaskan fungsinya !
+Jawab:
+State Management adalah sebuah cara untuk mengatur data / state, bisa juga untuk memisahkan antara logic dan view dimana logic tersebut juga bisa re-usable.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
