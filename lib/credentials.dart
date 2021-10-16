@@ -1,0 +1,1 @@
+const apiKey = 'http://api.openweathermap.org/data/2.5/weather?q=PAMULANG&appid=b5bedb63d4f648d38784f1b284518479';
